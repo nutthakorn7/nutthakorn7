@@ -1,4 +1,4 @@
-# Dr. Nutthakorn Chalaemwongwan (ดร.ณัฐกรณ์ แฉล้มวงศ์วาน)
+# Nutthakorn Chalaemwongwan (ณัฐกรณ์ แฉล้มวงศ์วาน)
 
 **Building Thailand's own cybersecurity products — and training the engineers who'll build the next ones.**
 
