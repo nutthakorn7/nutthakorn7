@@ -5,6 +5,8 @@
 Thailand imports the overwhelming majority of its SIEM, SOAR, XDR, and attack-surface-management tooling. I run **CyberDefense**, where we build a homegrown alternative, and teach the next generation of security engineers at three Thai universities.
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=XOXMAWUAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9304-1762)
+[![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57191330345)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nutthakorn/)
 
 ---
