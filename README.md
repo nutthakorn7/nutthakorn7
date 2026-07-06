@@ -1,5 +1,7 @@
 # Nutthakorn Chalaemwongwan (ณัฐกรณ์ แฉล้มวงศ์วาน)
 
+> 🇹🇭 **Thailand imports 70–80% of its cybersecurity solutions.** I'm working to change that ratio.
+
 **Building Thailand's own cybersecurity products — and training the engineers who'll build the next ones.**
 
 Thailand imports the overwhelming majority of its SIEM, SOAR, XDR, and attack-surface-management tooling. I run **CyberDefense**, where we build a homegrown alternative, and teach the next generation of security engineers at three Thai universities.
