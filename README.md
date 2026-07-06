@@ -2,7 +2,7 @@
 
 Thailand imports 70–80% of its cybersecurity tooling. That's the ratio I'm trying to move — I run [zcr](https://zcr.ai) and teach security at three universities here.
 
-[Scholar](https://scholar.google.com/citations?user=XOXMAWUAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-9304-1762) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191330345) · [LinkedIn](https://www.linkedin.com/in/nutthakorn/)
+<img src="https://cdn.simpleicons.org/googlescholar" width="14" height="14"> [Scholar](https://scholar.google.com/citations?user=XOXMAWUAAAAJ&hl=en) · <img src="https://cdn.simpleicons.org/orcid" width="14" height="14"> [ORCID](https://orcid.org/0000-0002-9304-1762) · <img src="https://cdn.simpleicons.org/scopus" width="14" height="14"> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57191330345) · [LinkedIn](https://www.linkedin.com/in/nutthakorn/)
 
 —
 
