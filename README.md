@@ -28,8 +28,15 @@ An AI-native product suite for Thai enterprises and healthcare, built to compete
 - [**ExplainSOC**](https://github.com/nutthakorn7/explainsoc) — leakage-audited explainable AI for security alert triage
 - [**HMARL-SOC**](https://github.com/nutthakorn7/HMARL-SOC) — hierarchical multi-agent reinforcement learning for SOC automation
 - [**ThaiScamBench**](https://github.com/nutthakorn7/ThaiScamBench) — a Thai-language scam detection benchmark
+- [**vector-log-reduction-benchmark**](https://github.com/nutthakorn7/vector-log-reduction-benchmark) — reproducible telemetry-reduction benchmark accompanying *"Context-Aware Security Telemetry Reduction: A Streaming Architecture for Scalable SOC Pipelines"* (IEEE Access, 2026)
 
 Longer-running research on blockchain, digital identity, and cloud security — [177 citations, full list on Google Scholar](https://scholar.google.com/citations?user=XOXMAWUAAAAJ&hl=en).
+
+### 🧰 Open-source security tools
+
+- [**ndr**](https://github.com/nutthakorn7/ndr) — Open NDR (Network Detection & Response) dashboard, MIT-licensed — [**live demo**](https://nutthakorn7.github.io/ndr/)
+- [**MontaraWAF**](https://github.com/nutthakorn7/MontaraWAF) — Web Application Firewall dashboard with real-time attack analytics (Next.js/React/TypeScript)
+- [**DRM**](https://github.com/nutthakorn7/DRM) — a Digital Rights Management server implementing the framework from my 2014 paper on DRM and cloud privacy
 
 ### 🎓 Teaching — AIR-Sec, AI-resilient security education
 
