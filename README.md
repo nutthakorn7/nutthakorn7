@@ -1,6 +1,8 @@
 # Nutthakorn Chalaemwongwan (ณัฐกรณ์ แฉล้มวงศ์วาน)
 
 > 🇹🇭 **Thailand imports 70–80% of its cybersecurity solutions.** I'm working to change that ratio.
+>
+> It's one slice of a bigger problem: Thailand's overall digital-services trade deficit has hit ~400 billion baht/year (-2.6% of GDP, the highest ratio in ASEAN) — [as raised by Pawoot Pongvitayapanu](https://www.facebook.com/PawootPom/posts/pfbid02edbVfxqHb3MotDRzyJcfhwdgjRnzSVeQAUcF2bV5Vo1X7ymZfeuSdsMSFrPsQtXJl), subcommittee chair investigating it.
 
 **Building Thailand's own cybersecurity products — and training the engineers who'll build the next ones.**
 
