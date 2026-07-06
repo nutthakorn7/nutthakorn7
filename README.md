@@ -1,0 +1,48 @@
+# Dr. Nutthakorn Chalaemwongwan (ดร.ณัฐกรณ์ แฉล้มวงศ์วาน)
+
+**Building Thailand's own cybersecurity products — and training the engineers who'll build the next ones.**
+
+Thailand imports the overwhelming majority of its SIEM, SOAR, XDR, and attack-surface-management tooling. I run **CyberDefense**, where we build a homegrown alternative, and teach the next generation of security engineers at three Thai universities.
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=XOXMAWUAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nutthakorn/)
+
+---
+
+### 🛡️ CyberDefense — Thai-made security products
+
+An AI-native product suite for Thai enterprises and healthcare, built to compete with the imported tools it replaces:
+
+- **zcrSOAR** — AI-native Security Orchestration, Automation & Response
+- **zcrCTEM** — multi-tenant Attack Surface Management (MSSP platform, 7 scanning engines, AI-assisted triage)
+- **zcrLog** — log management and SIEM-grade ingestion
+- **zcrGov** — the same stack, hardened for government deployments
+
+### 🔬 Research — AI for security operations
+
+17+ research outputs on applying LLMs to SOC alert triage and analysis, including:
+
+- [**SALAD-SOC**](https://github.com/nutthakorn7/SALAD-SOC) — a unified benchmark for SOC alert triage, prioritization, and classification
+- [**ExplainSOC**](https://github.com/nutthakorn7/explainsoc) — leakage-audited explainable AI for security alert triage
+- [**HMARL-SOC**](https://github.com/nutthakorn7/HMARL-SOC) — hierarchical multi-agent reinforcement learning for SOC automation
+- [**ThaiScamBench**](https://github.com/nutthakorn7/ThaiScamBench) — a Thai-language scam detection benchmark
+
+Longer-running research on blockchain, digital identity, and cloud security — [177 citations, full list on Google Scholar](https://scholar.google.com/citations?user=XOXMAWUAAAAJ&hl=en).
+
+### 🎓 Teaching — AIR-Sec, AI-resilient security education
+
+Teaching security at **KOSEN-KMITL**, **Mae Fah Luang University**, and **KMUTNB**, and developing **AIR-Sec** — an assessment model that stays valid even when students have AI assistance, running as a preregistered multi-institution study across three university security courses (Software Security, Applied Cryptography, Cloud Infrastructure & Security).
+
+### 📖 Open resources
+
+- [**SOC-SOP**](https://github.com/nutthakorn7/SOC-SOP) — 170+ bilingual (EN/TH) vendor-agnostic SOC SOPs, 50 playbooks, 36 Sigma rules. Build a SOC from zero.
+
+---
+
+### Focus areas
+
+`SOC Automation` · `SOAR / XDR / CTEM` · `Applied AI for Security` · `Cryptography` · `Cloud Security` · `Security Education`
+
+---
+
+*Building the security products — and the security engineers — Thailand needs.*
